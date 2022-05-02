@@ -34,6 +34,5 @@ class MainActivity : AppCompatActivity() {
             println("Ask your question")
         }
         println(answers.random())
-
     }
 }
